@@ -1,2 +1,2 @@
-# omnifood
-Fake client, delivers food. Omnifood. It's food, for everyone. ENJOY IT.
+# Hikes Peak
+Fake client, books trips.
